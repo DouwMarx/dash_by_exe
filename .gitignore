@@ -49,7 +49,7 @@ Thumbs.db
 *.wmv
 
 # CSV files
-*.csv
+#*.csv
 
 # png files
 # *.png
